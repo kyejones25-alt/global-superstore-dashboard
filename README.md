@@ -5,6 +5,7 @@ Interactive **Tableau dashboard** analyzing **$12.6M in global retail sales** ac
 
 ## Tool
 - **Tableau Desktop / Tableau Public**
+- https://public.tableau.com/views/GlobalSuperstoreSalesandProfitInsightsForStrategicGrowth/GlobalSuperstoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Components
 1. **Regional Sales Breakdown by Customer Segment** — Bar chart showing sales performance across 13 regions, segmented by Consumer, Corporate, and Home Office
